@@ -68,15 +68,14 @@ const Home = () => {
         <div className="container mx-auto py-16 px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
             <div className="">
-              <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">About Us</h2>
-              <p className="mt-4 text-gray-600 text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis
-                eros at lacus feugiat hendrerit sed ut tortor. Suspendisse et magna quis elit efficitur consequat.
-                Mauris eleifend velit a pretium iaculis. Donec sagittis velit et magna euismod, vel aliquet nulla
-                malesuada. Nunc pharetra massa lectus, a fermentum arcu volutpat vel.</p>
-              <div className="mt-8">
-                <a href="#" className="text-blue-500 hover:text-blue-600 font-medium">Learn more about us
-                  <span className="ml-2">&#8594;</span></a>
-              </div>
+              <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">Welcome to Sunshine Turf</h2>
+              <p className="mt-4 text-gray-600 text-lg">At Sunshine Turf Booking, we are dedicated to providing a seamless and enjoyable experience for booking the best turfs in town. Whether you're planning a casual game with friends, organizing a sports event, or looking for a regular practice spot, we've got you covered.</p>
+              <p className="mt-4 text-gray-600 text-lg">
+              Be a part of our growing community and take your sports experience to the next level with Sunshine Turf Booking. Book your turf today and enjoy a hassle-free and enjoyable sports experience!
+              </p>
+              <p className="mt-4 text-gray-600 text-lg">
+              Our mission is to make turf booking hassle-free and accessible for everyone. We believe in promoting sports and fitness by providing high-quality, well-maintained turfs that cater to a variety of sports and activities.
+              </p>
             </div>
             <div class="card">
           <div class="bg">
@@ -176,16 +175,12 @@ const Home = () => {
             <path d="M24 7.3h-5.1L22.3.4H17l-3.4 6.9v10.3H24V7.3zM10.3 17.6V7.3H5L8.6.4H3.4L0 7.3v10.3h10.3z"
                 fill="current"></path>
         </svg>
-        <p class="body-medium m-0 dark:text-gray-200">These are high-quality courses.
-            Trust me. I own around 10 and the price is worth it for the content quality. <a
-                href="https://twitter.com/EducativeInc?ref_src=twsrc%5Etfw">@EducativeInc</a> came at the right time in
-            my career. I'm understanding topics better than with any book or online video tutorial I've done. Truly made
-            for developers. Thanks <a href="https://t.co/EeKruv5hxM">https://t.co/EeKruv5hxM</a></p>
+        <p class="body-medium m-0 dark:text-gray-200">Sunshine Turf Booking made it so easy for our team to find a great turf for our weekend matches. The booking process was quick, and the turf was in excellent condition. Highly recommend!</p>
     </div>
     <div class="flex space-x-2 bg-gray-50 dark:bg-gray-900/60 dark:text-gray-200 px-6 pt-6 pb-5 rounded-b-xl">
         <div class="flex flex-col justify-center">
-            <p class="heading-six m-0">Anthony Walker</p>
-            <p class="body-small m-0 mt-1">@_webarchitect_</p>
+            <p class="heading-six m-0">John Doe</p>
+            <p class="body-small m-0 mt-1">@Student</p>
         </div>
     </div>
 </div>
@@ -196,16 +191,12 @@ const Home = () => {
             <path d="M24 7.3h-5.1L22.3.4H17l-3.4 6.9v10.3H24V7.3zM10.3 17.6V7.3H5L8.6.4H3.4L0 7.3v10.3h10.3z"
                 fill="current"></path>
         </svg>
-        <p class="body-medium m-0 dark:text-gray-200">These are high-quality courses.
-            Trust me. I own around 10 and the price is worth it for the content quality. <a
-                href="https://twitter.com/EducativeInc?ref_src=twsrc%5Etfw">@EducativeInc</a> came at the right time in
-            my career. I'm understanding topics better than with any book or online video tutorial I've done. Truly made
-            for developers. Thanks <a href="https://t.co/EeKruv5hxM">https://t.co/EeKruv5hxM</a></p>
+        <p class="body-medium m-0 dark:text-gray-200">I booked a turf for my son's birthday party, and it was a hit! The kids had a blast playing soccer, and the facilities were top-notch and the turfs are always well-maintained. Will definitely book again.</p>
     </div>
     <div class="flex space-x-2 bg-gray-50 dark:bg-gray-900/60 dark:text-gray-200 px-6 pt-6 pb-5 rounded-b-xl">
         <div class="flex flex-col justify-center">
-            <p class="heading-six m-0">Anthony Walker</p>
-            <p class="body-small m-0 mt-1">@_webarchitect_</p>
+            <p class="heading-six m-0">Sarah Williams</p>
+            <p class="body-small m-0 mt-1">@Developer</p>
         </div>
     </div>
 </div>
@@ -216,16 +207,12 @@ const Home = () => {
             <path d="M24 7.3h-5.1L22.3.4H17l-3.4 6.9v10.3H24V7.3zM10.3 17.6V7.3H5L8.6.4H3.4L0 7.3v10.3h10.3z"
                 fill="current"></path>
         </svg>
-        <p class="body-medium m-0 dark:text-gray-200">These are high-quality courses.
-            Trust me. I own around 10 and the price is worth it for the content quality. <a
-                href="https://twitter.com/EducativeInc?ref_src=twsrc%5Etfw">@EducativeInc</a> came at the right time in
-            my career. I'm understanding topics better than with any book or online video tutorial I've done. Truly made
-            for developers. Thanks <a href="https://t.co/EeKruv5hxM">https://t.co/EeKruv5hxM</a></p>
+        <p class="body-medium m-0 dark:text-gray-200">As a regular user, I appreciate the flexibility and ease of booking with Sunshine Turf Booking. The customer service is fantastic, and the turfs are always well-maintained</p>
     </div>
     <div class="flex space-x-2 bg-gray-50 dark:bg-gray-900/60 dark:text-gray-200 px-6 pt-6 pb-5 rounded-b-xl">
         <div class="flex flex-col justify-center">
-            <p class="heading-six m-0">Anthony Walker</p>
-            <p class="body-small m-0 mt-1">@_webarchitect_</p>
+            <p class="heading-six m-0">Michael Brown</p>
+            <p class="body-small m-0 mt-1">@Employee</p>
         </div>
     </div>
 </div>
@@ -236,16 +223,12 @@ const Home = () => {
             <path d="M24 7.3h-5.1L22.3.4H17l-3.4 6.9v10.3H24V7.3zM10.3 17.6V7.3H5L8.6.4H3.4L0 7.3v10.3h10.3z"
                 fill="current"></path>
         </svg>
-        <p class="body-medium m-0 dark:text-gray-200">These are high-quality courses.
-            Trust me. I own around 10 and the price is worth it for the content quality. <a
-                href="https://twitter.com/EducativeInc?ref_src=twsrc%5Etfw">@EducativeInc</a> came at the right time in
-            my career. I'm understanding topics better than with any book or online video tutorial I've done. Truly made
-            for developers. Thanks <a href="https://t.co/EeKruv5hxM">https://t.co/EeKruv5hxM</a></p>
+        <p class="body-medium m-0 dark:text-gray-200">We organized a corporate sports day using Sunshine Turf Booking, and it was a smooth experience from start to finish. The team was very supportive, and the turf quality was impressive.</p>
     </div>
     <div class="flex space-x-2 bg-gray-50 dark:bg-gray-900/60 dark:text-gray-200 px-6 pt-6 pb-5 rounded-b-xl">
         <div class="flex flex-col justify-center">
-            <p class="heading-six m-0">Anthony Walker</p>
-            <p class="body-small m-0 mt-1">@_webarchitect_</p>
+            <p class="heading-six m-0">Emily Johnson</p>
+            <p class="body-small m-0 mt-1">@Student</p>
         </div>
     </div>
 </div>

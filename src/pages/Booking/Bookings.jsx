@@ -143,6 +143,7 @@ const Bookings = () => {
             },
           }
         );
+        navigate('/')
       },
       prefill: {
         name: "GOCOOL",
@@ -165,14 +166,8 @@ const Bookings = () => {
       <div className='flex gap-10 justify-between min-w-full flex-col sm:flex-row'>
         <div className="max-w-lg">
           <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">About Us</h2>
-          <p className="mt-4 text-gray-600 text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis
-            eros at lacus feugiat hendrerit sed ut tortor. Suspendisse et magna quis elit efficitur consequat.
-            Mauris eleifend velit a pretium iaculis. Donec sagittis velit et magna euismod, vel aliquet nulla
-            malesuada. Nunc pharetra massa lectus, a fermentum arcu volutpat vel.</p>
-          <div className="mt-8">
-            <a href="#" className="text-blue-500 hover:text-blue-600 font-medium">Learn more about us
-              <span className="ml-2">&#8594;</span></a>
-          </div>
+          <p className="mt-4 text-gray-600 text-lg">At Sunshine Turf Booking, we are dedicated to providing a seamless and enjoyable experience for booking the best turfs in town. Whether you're planning a casual game with friends, organizing a sports event, or looking for a regular practice spot, we've got you covered.</p>
+          <p className="mt-4 font-bold text-gray-600 text-lg">Book your turf now for just 800 per hour and enjoy a premium sports experience!</p>
         </div>
         <div className="mt-12 md:mt-0 sm:p-0 p-10 drop-shadow-2xl">
               <img  src="https://res.cloudinary.com/dx78kzenz/image/upload/v1721203445/three-boxes-full-sport-equipments-white-background_h7suic.png" alt="About Us Image" className="object-cover rounded-lg drop-shadow-2xl" />
