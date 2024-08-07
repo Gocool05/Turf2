@@ -62,7 +62,7 @@ const Bookings = () => {
 
     // Disable past times if the selected date is today
     if (isToday ) {
-      return value[0] <= time[currentTimeIndex] || timeSlots.get(key) ;
+      return value[0] <= time[currentTimeIndex] || timeSlots.get(key) ===true ;
     }
 
     if(value[1] ){

@@ -24,7 +24,7 @@ const Contact = () => {
             <div class="grid grid-cols-1 lg:grid-cols-2 justify-between">
                 <div class="h-full pr-6">
                     <p class="mt-3 mb-12 text-lg text-gray-600 dark:text-slate-400">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolores saepe doloremque officiis sapiente excepturi vitae inventore libero, rerum ab necessitatibus, quas, illum quae eius sit officia animi architecto suscipit?
+                    At Sunshine Turf Booking, we are dedicated to providing a seamless and enjoyable experience for booking the best turfs in town. Whether you're planning a casual game with friends, organizing a sports event, or looking for a regular practice spot, we've got you covered.
                     </p>
                     <ul class="mb-6 md:mb-0">
                         <li class="flex">
@@ -41,8 +41,8 @@ const Contact = () => {
                             <div class="ml-4 mb-4">
                                 <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900 ">Our Address
                                 </h3>
-                                <p class="text-gray-600 dark:text-slate-400">XYZ Street</p>
-                                <p class="text-gray-600 dark:text-slate-400">Chennai, Tamilnadu</p>
+                                <p class="text-gray-600 dark:text-slate-400">100 Feet Rd, AGS Colony, Puzhuthivakkam, Madipakkam</p>
+                                <p class="text-gray-600 dark:text-slate-400">Chennai, Tamilnadu - 600091</p>
                             </div>
                         </li>
                         <li class="flex">
